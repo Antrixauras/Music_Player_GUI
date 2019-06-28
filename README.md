@@ -27,6 +27,6 @@ A simple GUI of Music Player which play songs of the selected playlist.
 <img src="Screenshot_mp2.png">
 
 ## Note
-You'll need 3.6 version as project interpreter if working on Pycharm.
+You'll need Python 3.6 as project interpreter in case working on Pycharm.
 
 
