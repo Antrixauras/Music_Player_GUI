@@ -18,4 +18,15 @@ A simple GUI of Music Player which play songs of the selected playlist.
 - Volume controller
 
 ## Explanation Through Screenshots
-### ->As you run it,a select folder for music will come up on screen which will work as your playlist
+### --> As you run it,a select folder for music will come up on screen which will work as your playlist
+
+<img src="Screenshot_mp1.png">
+
+### --> Play music
+
+<img src="Screenshot_mp2.png">
+
+## Note
+You'll need 3.6 version as project interpreter if working on Pycharm.
+
+
