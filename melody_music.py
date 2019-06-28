@@ -53,11 +53,6 @@ def set_vol(val):
     volume=int(val)/100
     mixer.music.set_volume(volume)
 
-def browse_button():
-    global filename_path
-    filename_path = filedialog.askdirectory()
-    add_to_playlist(filename_path)
-
 listofsongs = []
 def add_to_playlist(f):
     global listofsongs
@@ -104,7 +99,6 @@ root.config(menu = menubar)
 subMenu = Menu(menubar,tearoff = 0)
 menubar.add_cascade(label = 'File',menu = subMenu)
 menubar.add_cascade(label = 'About',command = info)
-subMenu.add_command(label = 'Open',command = browse_button)
 subMenu.add_command(label = 'Exit',command = root.destroy)
 
 
