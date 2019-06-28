@@ -3,8 +3,8 @@ Play music from playlist of your choice
 
 ## Code Requirements
 - Tkinter(available in python)
-- pygama
-- mutagen
+- pygame (`pip install pygame`)
+- mutagen (`pip install mutagen`)
 
 ## About
 A simple GUI of Music Player which play songs of the selected playlist.
