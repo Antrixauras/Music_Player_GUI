@@ -16,6 +16,7 @@ A simple GUI of Music Player which play songs of the selected playlist.
 - Add song
 - Delete song
 - Volume controller
+- Length of song
 
 ## Explanation Through Screenshots
 ### --> As you run it,a select folder for music will come up on screen which will work as your playlist
